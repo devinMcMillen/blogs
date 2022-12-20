@@ -1,0 +1,10 @@
+Host the content with S3 buckets.
+>> blog-content
+    >> Registration -> The links to the content to be displayed
+    >> <article1 title>
+        >> Image (Optional)
+        >> Page Content (JSON)
+    >> <article2 title>
+        >> Image (Optional)
+        >> Page Content (JSON)
+>> archived-content -> Old articles
