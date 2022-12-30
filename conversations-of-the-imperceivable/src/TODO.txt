@@ -1,0 +1,15 @@
+* Navbar.js
+    -- Look into Signup options to have a user base
+    -- Look into auto-sign in options
+    -- Setup means to share on social media
+
+** Setup ads so that you can make money
+
+** Setup Dynamo DB table for the content
+** Setup Dynamo DB table for the comments and conversations
+** Setup DB security
+
+* Setup Social Media linking for sharing
+
+* Setup CSS Purge
+* Setup minification
